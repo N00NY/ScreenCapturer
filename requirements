@@ -1,0 +1,9 @@
+You'll need:
+- PIL
+- win32api
+- win32con
+- tkinter
+- time
+- socket
+- ctypes
+- threading
