@@ -14,8 +14,14 @@ This part goes over the second created socket. The socket is specialized on the,
 
 So I didn't even went over to the part of trying it with one socket because just thinking about it gives me headaches.
 
-For the source code, I guess it makes more sense that I'll just make comments and try to explain it as best and short as possible.
-I don't have footage of it, yet, but I'll add something over the weekend, most likely a gif. And source code I have yet to comment properly.
+Serverside:
+![alt text](https://github.com/N00NY/ScreenCapturer/blob/master/examples/server.gif)
 
-![alt text](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
-#Btw I don't own this GIF
+Clientside:
+![alt text](https://github.com/N00NY/ScreenCapturer/blob/master/examples/client.gif)
+
+These are gifs of the class ScreenCapturer. It's basically a module that contains the clientside (ScreenCaptureClient) and the the serverside (ScreenCaptureServer). Remember, first start the server and afterwards the client.
+And another problem occured. It seems that it sometimes works and sometimes not. I don't know why this happens and I'll try to fix it later on because I have a pretty good guess what might be causing it to crash or not work randomly. But for now it's like a 50/50 chance of either success or failure.
+I'll also provide you with footage taken of a working session.
+
+If you should've questions, please ask them right away (https://www.reddit.com/user/CaptainReeetardo)! I'll try to answer them as soon as possible.
