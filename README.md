@@ -20,7 +20,11 @@ Serverside:
 Clientside:
 ![alt text](https://github.com/N00NY/ScreenCapturer/blob/master/examples/client.gif)
 
+Example:
+![alt text](https://github.com/N00NY/ScreenCapturer/blob/master/examples/example.gif)
+
 These are gifs of the class ScreenCapturer. It's basically a module that contains the clientside (ScreenCaptureClient) and the the serverside (ScreenCaptureServer). Remember, first start the server and afterwards the client.
+And I know that this example is not that good. But I am going to make a better example with another PC that will hopefully be mor accurate. And if this example should be lagging, it is because of its size. Guess I need to resize it even further. Maybe to 480p or lower. But then it would probably cause permanent damage to the viewers eyes.
 And another problem occured. It seems that it sometimes works and sometimes not. I don't know why this happens and I'll try to fix it later on because I have a pretty good guess what might be causing it to crash or not work randomly. But for now it's like a 50/50 chance of either success or failure.
 I'll also provide you with footage taken of a working session.
 
